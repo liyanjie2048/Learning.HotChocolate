@@ -11,8 +11,3 @@ public class User
     // [GraphQLIgnore]
     public int Ignore { get; set; }
 }
-
-public class User1
-{
-    public int Id { get; set; }
-}
